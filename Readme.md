@@ -6,3 +6,5 @@ Hoffentlich mit passenden platformio settings.
 Ich verwende eine Stromquelle mit weniger als 5v, daher kann ich die ws2812b direkt anschließen und per 3.3v ansteuern.
 
 pull requests sind natürlich willkommen :)
+
+Youtube-Video: https://www.youtube.com/watch?v=FZvNaCUI390
